@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Alia Swar</h1>
-<h3 align="center">A Student Software Engineering in Damascus university</h3>
-
-- 💬 Ask me about **laravel **
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
+</p>
 
 - 📫 How to reach me **swar2000alia@gmail.com**
 <h3 align="left">Connect with me:</h3>
