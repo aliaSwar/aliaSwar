@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Alia Swar</h1>
+<h1 align="center"> I'm Alia Swar</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
 </p>
