@@ -2,7 +2,7 @@
  👋 Hi, I'm Alia Swar!
 </h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer+Student;laravel+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineering+Student;laravel+developer" > 
 </p>
 </br> 
 
