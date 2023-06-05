@@ -2,7 +2,7 @@
  👋 Hi, I'm Alia Swar!
 </h1>
 <h3>
- Software Engineering Student ,Back-End Developer 
+ Software Engineering Student, Back-End Developer 
 </h3>
 
 
