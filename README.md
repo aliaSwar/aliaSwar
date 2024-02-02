@@ -1,5 +1,5 @@
 <h1 >
- 👋 Hi, I'm Alia Swar!
+ 👋 Hi, I'm Alia Sewar!
 </h1>
 <h3>
  Software Engineering Student, Back-End Developer 
